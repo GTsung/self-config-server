@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: self-config-server
+
+server:
+  port: 9000
+
+person:
+  name: adams
+  age: 18
